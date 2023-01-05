@@ -16,6 +16,7 @@ function hasTargetSum(array, target) {
 
   Given an input array of n elements, the worst case scenario is that 
   the algorithm needs to make n^2 iterations.
+  The time complexity of the above algorithm is: O(n^2)
 */
 
 /* 
